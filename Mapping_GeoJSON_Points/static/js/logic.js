@@ -35,7 +35,6 @@ L.geoJSON(sanFranAirport, {
 
 }).addTo(map);
 
-
 // // Grabbing our GeoJSON data.
 // L.geoJSON(sanFranAirport, {
 //   // We turn each feature into a marker on the map.
